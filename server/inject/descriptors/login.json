@@ -47,5 +47,12 @@
       "control": "action.button"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [],
+      "screens": [
+        "login"
+      ]
+    }
+  ]
 }
